@@ -2,7 +2,7 @@
 import { useState } from 'react';
 import { motion, AnimatePresence } from 'motion/react';
 import { LiquidGlassCard } from '@/components/ui/liquid-glass';
-import { Linkedin, Mail, MessageCircle } from 'lucide-react';
+import { Linkedin, Mail } from 'lucide-react';
 
 // WhatsApp icon component
 const WhatsAppIcon = ({ className }: { className?: string }) => (
