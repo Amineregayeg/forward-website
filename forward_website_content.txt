@@ -1,0 +1,155 @@
+# Forward — Full Website Text Extraction (verbatim + reconstructed)
+
+## Global Navigation
+
+- Logo: Forward
+- Menu:
+  - Services
+  - Training
+  - About
+  - Contact
+
+---
+
+## Homepage
+
+### Hero
+
+**H1:**
+CRM, Training & Consulting to accelerate revenue, safely
+
+**Meta / tagline (from search snippet):**
+Forward helps you design resilient CRM architectures, streamline SFDC↔SFMC integrations, and operationalize lifecycle marketing — with hands-on enablement.
+
+**Subheadline:**
+Advisory first. We design resilient architectures, streamline integrations, and operationalize lifecycle marketing—while upskilling your team.
+
+**Service tags / chips:**
+- Consulting & Solution Design
+- Salesforce Marketing Cloud
+- Marketing Automation
+- Enablement & Training
+
+**Primary CTA button:**
+Talk to an expert
+
+---
+
+### What we deliver
+
+- **Solution design & roadmaps:** quick discovery, prioritization, and a plan you can execute tomorrow.
+- **Integrations where it matters:** Salesforce / Veeva CRM ↔︎ Salesforce Marketing Cloud, consent, tracking, and data quality.
+- **Enablement that sticks:** concise training, playbooks, and governance to sustain performance.
+
+---
+
+### Services overview (cards)
+
+#### CRM Consulting
+
+Discovery & diagnostics, solution design, target architecture, governance, and measurable ROI.
+
+#### Integrations & Automations
+
+Salesforce (or Veeva CRM) ↔︎ Salesforce Marketing Cloud: data model, consent, identity, templating, and robust automations.
+
+#### Training
+
+Become a Salesforce Marketing Cloud Consultant (foundations), lifecycle campaigns, segmentation, data quality, and best practices.
+
+---
+
+## Training Page / Section
+
+### Section title
+
+Focused, effective training for teams
+
+**Intro paragraph:**
+Compact modules that save time, reduce risk, and build lasting capability.
+
+#### Training modules (cards)
+
+1. **SFMC — Executive Overview (90 min)**
+   Walkthrough of key components, marketing use-cases, tips and pitfalls to avoid.
+
+2. **Automations, Data Quality & Governance**
+   Structure your DEs, monitor errors, manage retries, logs, and compliance audit.
+
+(Additional modules may exist; these are the ones visible in current screenshots.)
+
+---
+
+## Contact Page
+
+### Heading
+
+Contact
+
+### Intro text
+
+Briefly describe your project and we'll get back to you quickly.
+
+### Form fields
+
+- Name
+- Email
+- Company
+- Your message…
+
+reCAPTCHA:
+- Checkbox label: *Je ne suis pas un robot*
+
+Submit button:
+- Send
+
+---
+
+## Footer
+
+### Trust logos
+
+Trusted by
+
+- MSD
+- GENERALI
+- Biogen
+- MARS
+
+### Legal / copyright
+
+- Link: Legal
+- Text: © 2025 Forward — All rights reserved.
+
+---
+
+## Legal Notice
+
+### Publisher
+
+**Company:** SAS FORWARD
+**Registered address:** 8 Rue Primo Levi, 93000 Bobigny, France
+**Legal form:** Société par actions simplifiée (SAS)
+**CEO:** Hatem Ben Maad
+
+### Hosting
+
+OVHcloud — 2 rue Kellermann, 59100 Roubaix, France.
+
+### Contact
+
+For any question about this website, you can reach us via the contact form.
+
+### Intellectual property
+
+All content on this website (texts, visuals, logo, layout) is the property of SAS FORWARD or its respective owners. Any reproduction, distribution, or modification without prior permission is prohibited.
+
+### Personal data
+
+Data submitted via the contact form is used only to respond to your request and is not shared with third parties. You can request access, rectification or deletion by contacting us through the form.
+
+### Liability
+
+We strive to provide accurate information. However, SAS FORWARD cannot be held liable for errors, omissions, or unavailability of information and services.
+
+**Last update:** 2025-12-02

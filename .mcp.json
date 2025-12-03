@@ -1,0 +1,20 @@
+{
+  "mcpServers": {
+    "shadcn": {
+      "command": "npx",
+      "args": [
+        "shadcn@latest",
+        "mcp"
+      ]
+    },
+    "ui-layouts": {
+      "command": "npx",
+      "args": [
+        "shadcn@latest",
+        "mcp",
+        "--registry",
+        "https://ui-layouts.com/r"
+      ]
+    }
+  }
+}
